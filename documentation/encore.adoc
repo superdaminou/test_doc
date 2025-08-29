@@ -3,8 +3,10 @@
 = La documentation technique
 
 L'ensemble des diagrammes dans les pages sont des images.
-Les images ont été générés a partir de diagrammes PlantUML stocké dans /puml.
-Chaque build va automatiquement générés les images dans le dossiers images de la documentation.
+Les images ont été générés a partir de diagrammes PlantUML qui peuvent se trouver n'importe ou dans la documentation. Chaque image généra sera déposé dans le dossier images.
+
+Chaque modification sur le répo va automatiquement déclenché le job permettant de réngéner toutes les images a partir des différent diagrammes.
+
 
 images::workflow.png[workflow]
 
