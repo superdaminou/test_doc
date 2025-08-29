@@ -17,4 +17,5 @@ jobs:
           git add .git commit -m "Update generated diagrams" || exit 0
       - name: Push Diagrams
         uses: ad-m/github-push-action@master
-        with:github_token: ${{ github.token }}
+        with:
+          github_token: ${{ github.token }}
