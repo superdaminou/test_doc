@@ -8,9 +8,9 @@ Les images ont été générés a partir de diagrammes PlantUML qui peuvent se t
 Chaque modification sur le répo va automatiquement déclenché le job permettant de réngéner toutes les images a partir des différent diagrammes.
 
 
-images::workflow.png[workflow]
+image::workflow.png[workflow]
 
 
 Ce qui permet de générer nos différents diagrammes en étant sur de ne pas oublier de reporter d'un endroit a un autre.
 
-images::exemple.png[exemple]
+image::exemple.png[exemple]
