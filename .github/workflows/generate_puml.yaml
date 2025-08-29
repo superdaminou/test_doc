@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate Diagrams
-        run: java -jar plantuml.jar -v -tsvg "**.pu"
+        run: java -jar plantuml.jar "./puml"
       - name: Commit Diagrams
         run: |
           git config --local user.email "action@github.com"
