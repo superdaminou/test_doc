@@ -1,0 +1,7 @@
+:imagesdir: ../images
+
+= Documentation fonctionnelle
+
+Pouvoir documenter les processus metier
+
+image::fonctionnel.png[fonctionnelle]

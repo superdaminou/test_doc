@@ -4,5 +4,5 @@
 
 Tentative de DocAsCode.
 
-Possibilité de suivre les différentes pages comme la link:documentation/encore.adoc[documentation technique]
+Possibilité de suivre les différentes pages comme la link:documentation/technique.adoc[documentation technique] ou la doc link:documentation/fonctionnel.adoc[fonctionnelle].
 

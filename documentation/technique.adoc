@@ -1,0 +1,19 @@
+:imagesdir: ../images
+
+= La documentation technique
+
+L'ensemble des diagrammes dans les pages sont des images.
+Les images ont été générés à partir de diagrammes PlantUML qui peuvent se trouver n'importe ou dans la documentation. Chaque image généra sera déposé dans le dossier images.
+
+Chaque modification sur le répo va automatiquement déclencher le job permettant de réngéner toutes les images à partir des différents diagrammes.
+
+Ainsi le diagramme de link:workflow.puml[workflow] génére une image intégré ci-dessous de la façon suivante: `image::workflow.png[workflow]`
+
+WARNING: Attention a ne pas oublier de réferencer le chemin du dossier images dans le header
+
+image::workflow.png[workflow]
+
+
+Ce qui permet de générer nos différents diagrammes en étant sur de ne pas oublier de reporter d'un endroit a un autre.
+
+image::exemple.png[exemple]
