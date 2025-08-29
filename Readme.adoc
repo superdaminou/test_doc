@@ -1,3 +1,5 @@
+:imagesdir: puml
+
 = Bienvenu dans la doc
 
 
