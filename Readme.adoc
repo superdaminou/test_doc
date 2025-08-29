@@ -1,0 +1,4 @@
+= Bienvenu dans la doc
+
+
+aller a une autre page link:page.adoc[maPage]
