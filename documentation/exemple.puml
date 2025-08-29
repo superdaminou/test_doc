@@ -1,0 +1,6 @@
+@startuml
+
+[Une appli] -> [Une Autre]
+[Une Autre] -> [Qui ? ]
+
+@enduml

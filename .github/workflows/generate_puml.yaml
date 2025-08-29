@@ -11,7 +11,7 @@ jobs:
       - name: Setup Graphviz
         uses: ts-graphviz/setup-graphviz@v2
       - name: Generate Diagrams
-        run: java -jar plantuml.jar "./puml"
+        run: java -jar plantuml.jar "*/**/*.puml" -tpng -o " "${GITHUB_WORKSPACE}/images"
       - name: Commit Diagrams
         run: |
           git config --local user.email "action@github.com"

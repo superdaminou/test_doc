@@ -1,3 +1,0 @@
-:imagesdir: puml
-
-image::test.png[Sunset]

@@ -1,6 +1,8 @@
 :imagesdir: puml
 
-= Bienvenu dans la doc
+= Bienvenue dans la documentation
 
+Tentative de DocAsCode.
 
-aller a une autre page link:page.adoc[maPage]
+Possibilité de suivre les différentes pages comme la link:documentation/encore.adoc[documentation technique]
+

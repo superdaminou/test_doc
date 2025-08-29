@@ -1,0 +1,6 @@
+@startuml
+:Ecire de la documentation;
+:La publier sur github;
+:Laisser la génération des images se faire;
+:Profiter;
+@enduml

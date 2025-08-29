@@ -1,0 +1,14 @@
+:imagesdir: images
+
+= La documentation technique
+
+L'ensemble des diagrammes dans les pages sont des images.
+Les images ont été générés a partir de diagrammes PlantUML stocké dans /puml.
+Chaque build va automatiquement générés les images dans le dossiers images de la documentation.
+
+images::workflow.png[workflow]
+
+
+Ce qui permet de générer nos différents diagrammes en étant sur de ne pas oublier de reporter d'un endroit a un autre.
+
+images::exemple.png[exemple]
