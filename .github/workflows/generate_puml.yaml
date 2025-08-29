@@ -14,7 +14,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .git commit -m "Update generated diagrams" || exit 0
+          git add .
+          git commit -m "Update generated diagrams" || exit 0
       - name: Push Diagrams
         uses: ad-m/github-push-action@master
         with:
