@@ -2,6 +2,6 @@
 
 = Documentation fonctionnelle
 
-Pouvoir documenter les processus metier
+Pouvoir documenter les processus metier, qui est super beau
 
 image::fonctionnel.png[fonctionnelle]
